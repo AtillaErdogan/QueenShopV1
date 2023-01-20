@@ -3,10 +3,10 @@ using Business.Concrete;
 using DataAccess.Concrete.EntityFreamework;
 using DataAccess.Concrete.InMemory;
 
-ProductManeger productManeger = new ProductManeger(new EfProductDal());
-foreach (var product in productManeger.GetAllByCategory(2))
+ProductManeger ProductManeger = new ProductManeger(new EfProductDal());
+foreach (var product in ProductManeger.GetProductDetails())
 {
-    Console.WriteLine(product.ProductName);
+    Console.WriteLine(product.ProductName +" / "+ product.CategoryName );
 }
 
 

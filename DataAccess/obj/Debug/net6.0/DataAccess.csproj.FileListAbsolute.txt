@@ -13,3 +13,5 @@ C:\Users\ABDULHAMIT\source\repos\QueenShop\DataAccess\obj\Debug\net6.0\DataAcces
 C:\Users\ABDULHAMIT\source\repos\QueenShop\DataAccess\obj\Debug\net6.0\DataAccess.dll
 C:\Users\ABDULHAMIT\source\repos\QueenShop\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
 C:\Users\ABDULHAMIT\source\repos\QueenShop\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\ABDULHAMIT\source\repos\QueenShop\DataAccess\bin\Debug\net6.0\Core.dll
+C:\Users\ABDULHAMIT\source\repos\QueenShop\DataAccess\bin\Debug\net6.0\Core.pdb

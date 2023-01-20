@@ -1,0 +1,12 @@
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\bin\Debug\net6.0\Core.dll
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\bin\Debug\net6.0\ref\Core.dll
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\obj\Debug\net6.0\Core.dll
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\ABDULHAMIT\source\repos\QueenShop\Core\obj\Debug\net6.0\Core.pdb
